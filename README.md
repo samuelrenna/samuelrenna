@@ -1,5 +1,6 @@
-### ¡Hola! Soy Samuel Renna 👋
-🚀 **Desarrollador Web Junior** en formación (F.P Grado Superior desarrollo de aplicaciones web)
+# ¡Hola! Soy Samuel Renna
+🚀 **Desarrollador Web Junior** en formación
+* (F.P Grado Superior desarrollo de aplicaciones web)
 
 Me especializo en construir aplicaciones web dinámicas y escalables. certificado en **AWS Cloud Practitioner** en el 2024 y estoy profundizando en **JavaScript y SQL**.
 
@@ -12,4 +13,4 @@ Me especializo en construir aplicaciones web dinámicas y escalables. certificad
   - **Backend & Data:** Java, MySQL, Firebase, Python.
   - **Cloud & Tools:** AWS (Cloud Practitioner), Git, VS Code.
 
-- 📫 **Contacto:** - 💼 [Mi Perfil de LinkedIn](https://www.linkedin.com/in/samuel-renna) | [Envíame un correo](mailto:samuelrenna@gmail.com?subject=Contacto%20desde%20GitHub)
+- 📫 **Contacto:** - 💼 [Mi Perfil de LinkedIn](https://www.linkedin.com/in/samuelrenna) | [Envíame un correo](mailto:samuelrenna@gmail.com?subject=Contacto%20desde%20GitHub)
