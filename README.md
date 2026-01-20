@@ -5,8 +5,6 @@
 Me especializo en construir aplicaciones web dinámicas y escalables. certificado en **AWS Cloud Practitioner** en el 2024 y estoy profundizando en **JavaScript y SQL**.
 
 - 🔭 **Proyectos destacados:**
-  - [cite_start]**E-commerce:** Tienda SPA con React, Context API y Firebase[cite: 44, 46].
-  - [cite_start]🎮 **JS Game:** Motor de juego propio con gestión de estados y carga asíncrona[cite: 50, 52].
   - [Ver](https://github.com/samuelrenna/MancoCanal.git) :bookmark_tabs: **MancoCanal:** Enfocado en brindar una experiencia responsiva y dinámica para los seguidores del canal.
 
 - 🛠 **Mi Stack Tecnológico:**
