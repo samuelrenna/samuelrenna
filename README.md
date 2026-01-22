@@ -9,6 +9,7 @@ Me especializo en construir aplicaciones web dinámicas y escalables. certificad
   - [Ver](https://github.com/samuelrenna/JuegoWeb.git) **Juego Web:** Este es un proyecto de videojuego desarrollado utilizando tecnologías web estándar (HTML5, CSS y JavaScript).
   - [Ver](https://github.com/samuelrenna/E-comerce-VsGaming.git) **Versus Gaming:** es una Single Page Application (SPA) simulando una tienda en línea (React, vite, firebase, bootstrap).
   - [Ver](https://github.com/samuelrenna/Calculadora_C-TIRADS.git) **Calculadora C-TIRADS:** Esta aplicación web es una calculadora interactiva diseñada para la estratificación del riesgo de malignidad de los nódulos tiroideos mediante ultrasonido (HTML5, CSS y JavaScript).
+  - [Ver](https://github.com/samuelrenna/api-rest.git) **Api-Rest Con Nest.js:** Este es el backend de una aplicación para la gestión de un taller mecánico (Vehículos, Piezas y Reparaciones), desarrollado con ( NestJS y Prisma ORM).
 
 
 
