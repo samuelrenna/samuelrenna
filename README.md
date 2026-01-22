@@ -14,7 +14,7 @@ Me especializo en construir aplicaciones web dinámicas y escalables. certificad
 
 
 
-- 🛠 **Mi Stack Tecnológico:**
+
   ### 🛠 Herramientas y Tecnologías
 
 **Lenguajes:**
